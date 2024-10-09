@@ -8,7 +8,7 @@ session_start();
     <title>Shop</title>
 </head>
 <body>
-    <h2>Welcome to the Shop!</h2>
+    <h2>Welcome Admin!</h2>
     <p>Here you can browse and purchase items.</p>
     <a href="index.php">Back to Home</a>
 </body>
